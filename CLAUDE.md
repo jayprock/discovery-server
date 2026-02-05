@@ -6,9 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Netflix Eureka Server for service discovery in a microservices architecture. Part of the DFS (Daily Fantasy Sports) ecosystem.
 
-- **Spring Boot:** 3.2.2
-- **Spring Cloud:** 2023.0.0
-- **Java:** 17+
+- **Spring Boot:** 3.5.9
+- **Spring Cloud:** 2025.0.0
+- **Java:** 21+
 
 ## Build Commands
 
