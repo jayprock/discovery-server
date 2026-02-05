@@ -2,3 +2,5 @@ project-key: discovery-server-tgx7hrir
 id-digits: 3
 on-implement-complete: open-pr
 on-spec-change: push
+use-worktrees: true
+base-branch: develop
